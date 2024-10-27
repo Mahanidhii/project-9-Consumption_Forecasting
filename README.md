@@ -12,7 +12,7 @@ A time series forecasting model which uses Mean Squared Error (MSE) as metric fo
 7. `git remote add origin <GitHub repository link>`, builds connection between git and github
 8. `git push --set-upstream origin master`, sends all the files from git to github.
 
-Docker:
+Docker commands:
 1. `docker build -t <folder_name>`
 2. `docker run <folder_name>`
 
